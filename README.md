@@ -18,6 +18,10 @@ CogniSphere is a Generative-AI powered web platform that enables students to **e
 ---
 
 ## 💡 Solution
+👉 Demo Video (Google Drive):
+🔗 https://drive.google.com/file/d/1oczvucrwl9Lv6AqQ6F99YzhAi-xlOdek/view?usp=drive_link
+
+This short demo video showcases the complete workflow of CogniSphere, including user registration, skill matching, live video-based learning, the credit system, and AI-powered multimodal learning using Gemini.
 
 **CogniSphere** introduces a **skill-for-skill learning economy** powered by **Google Gemini AI**, enabling:
 
@@ -164,3 +168,4 @@ Built with ❤️ for hackathons & innovation.
 **Project:** CogniSphere
 
 ---
+
