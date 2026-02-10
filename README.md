@@ -147,7 +147,16 @@ http://localhost:5000
 
 ---
 
+## 🔮 Future Enhancements
 
+* Database & authentication
+* Real-time chat & scheduling
+* AI-powered voice learning (TTS)
+* Video-based explanations
+* Mobile app version
+* Verified skill badges
+
+---
 
 ## 🏆 Team
 
